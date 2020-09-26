@@ -1,7 +1,7 @@
 # Finger Counter
 A convolutional neural network designed to count how many fingers a hand is holding up in an image and which hand is shown. This model achieved close to 100% accuracy during training.
 
-Technologies used: Python 3, Tensorflow, Keras, Pillow.
+Technologies used: Python 3, Tensorflow, Keras, Pillow
 
 # Data
 
