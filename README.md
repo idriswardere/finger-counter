@@ -119,3 +119,5 @@ I created a small dataset of pictures of my own hand I uploaded from my phone. T
 # Conclusion
 
 There were 2 goals I was attempting to reach when creating this model: Learn how to effectively use Tensorflow and count fingers on a hand. This experience helped me get really close at achieving both. I learned a lot about different Python packages useful for image processing and machine learning, including tensorflow, and I managed to reach a validation accuracy of 100% during training. The model's results on real world data, however, definitely had a lot of room to improve.
+
+In the future, I might consider using thresholding techniques to improve the model's real world performance. It would likely make the model much more translatable and improve overall accuracy.
